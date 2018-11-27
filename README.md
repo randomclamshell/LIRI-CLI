@@ -28,3 +28,6 @@ dowhatitsays returns the result of a "random" result by reading the random.txt f
 Unfortunately, since this is a command line application, it must be cloned down to your machine to be demoed. After cloning down the repo to your computer, cd into the LIRI-CLI folder and run npm install to download all the node dependencies mentioned above.
 
 To run the app, simply use the node liri.js [command-here] format discussed above.
+
+To the repo itself:
+[LIRI-CLI](https://github.com/randomclamshell/LIRI-CLI)
