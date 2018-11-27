@@ -7,21 +7,21 @@ The app features 4 different features using the node liri.js [command-here] synt
 
 concerthis [artist-here] returns any upconing concerts using the BandsInTown API.
 
-![alt text](https://drive.google.com/open?id=1NeqgqBiUi_HAYsD9UYKnUrd7UTI9UcTm "concertthis")
+![concertthis](http://i63.tinypic.com/2d0i8w8.png "concertthis")
 
 spotifythis [song-title-here] returns the artist, album, and preview URL for a specific song using the Spotify API.
 
 
-![alt text](https://drive.google.com/open?id=1S-K8R0R6mDiMxdCeBk9_W6YcY7lpStSl "spotifythis")
+![spotifythis](http://i67.tinypic.com/5x205s.png "spotifythis")
 
 moviethis [movie-title-here] returns the year, rating, plot summary, reviews of a specific movie using the IMDb API.
 
 
-![alt text](https://drive.google.com/open?id=1hIc6eSFExreqLKVGqu2gF0L_NC3RgH56 "moviethis")
+![moviethis](http://i64.tinypic.com/ei8n77.png "moviethis")
 
 dowhatitsays returns the result of a "random" result by reading the random.txt file and performing the command written in that file. This command can be changed to any one of the 3 types listed above.
 
-![alt text](https://drive.google.com/open?id=1zRA3JxdYVbeUNrjuvXuFkaXdLUgXefly "dowhatitsays")
+![dowhatitsays](http://i67.tinypic.com/15fkwn5.png "dowhatitsays")
 
 
 #Instructions
